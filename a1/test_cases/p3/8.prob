@@ -1,0 +1,12 @@
+start_state: A
+goal_states: D E
+A 0
+B 0
+C 0
+D 0
+E 0
+A E 2.01
+A B 1
+A C 1
+B D 1.1
+C D 1.02

@@ -1,0 +1,18 @@
+start_state: Z_Start
+goal_states: B_Goal D_Goal
+Z_Start 5
+B_Goal 0
+D_Goal 0
+A 2
+C 3
+E 1
+F 0.5
+G 100
+Z_Start E 0
+Z_Start A 0
+Z_Start C 0
+E F 0
+F G 0
+C D_Goal 0
+A B_Goal 0
+G D_Goal 0

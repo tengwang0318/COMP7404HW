@@ -1,0 +1,9 @@
+start_state: X
+goal_states: A B C
+X 0
+A 0
+B 0
+C 0
+X A 1
+X B 2
+X C 3

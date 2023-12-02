@@ -1,0 +1,15 @@
+start_state: Z
+goal_states: A B D
+Z 8
+A 0
+B 0
+C 1
+D 0
+E 2
+Z A 6
+Z B 5
+Z E 1
+C B 1
+E C 1
+E D 2
+C D 1
